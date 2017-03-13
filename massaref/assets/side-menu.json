@@ -1,0 +1,44 @@
+[
+	{
+		"icon": "group",
+		"title": "العملاء",
+		"perm": "dashboard-side_nav-clients",
+		"route": "/dashboard/clients"
+	},
+	{
+		"icon": "thumbs_up_down",
+		"title": "المشاريع",
+		"perm": "dashboard-side_nav-projects",
+		"route": "/dashboard/projects"
+	},
+	{
+		"icon": "group_work",
+		"title": "المنظمات",
+		"perm": "dashboard-side_nav-orgs",
+		"route": "/dashboard/orgs"
+	},
+	{
+		"icon": "supervisor_account",
+		"title": "إدارة الحسابات",
+		"perm": "dashboard-side_nav-accounts",
+		"route": "/dashboard/accounts"
+	},
+	{
+		"icon": "supervisor_account",
+		"title": "إدارة ألأدوار",
+		"perm": "dashboard-side_nav-roles",
+		"route": "/dashboard/roles"
+	},
+	{
+		"icon": "location_city",
+		"title": "المراكز",
+		"perm": "dashboard-side_nav-centers",
+		"route": "/dashboard/centers"
+	},
+	{
+		"icon": "trending_up",
+		"title": "التقارير",
+		"perm": "dashboard-side_nav-reports",
+		"route": "/dashboard/reports"
+	}
+]
